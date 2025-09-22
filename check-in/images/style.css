@@ -1,0 +1,26 @@
+img {
+    width: 250px;
+    border: 10px blue solid;
+    padding: 30px;
+    margin: auto;
+    background-color: gray;
+}
+
+body {
+    margin: 0;
+    display: grid;
+    place-items: center;
+    background-color: rgb(211, 211, 211);
+}
+
+h1 {
+    margin: 15px 0px 25px
+}
+
+main > div {
+    text-align: center;
+}
+
+div > img {
+    margin-bottom: 30px;
+}
